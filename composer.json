@@ -1,12 +1,7 @@
 {
-    "name": "ozidong/blog",
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/ozidong/-My-Existing-Git-Project.git"
-        }
-    ],
+    "name": "acme/hello-world",
     "require": {
-        "acme/hello-world": "dev-master"
+        "monolog/monolog": "1.0.*"
     }
-}i
+}
+
